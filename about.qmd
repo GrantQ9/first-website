@@ -1,5 +1,9 @@
 ---
-title: "Grant Quattlebaum"
+title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Grant Quattlebaum** and I went to *Reed College*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
